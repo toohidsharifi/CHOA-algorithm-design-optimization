@@ -318,5 +318,3 @@ if nargout==2
     dp=2*xx;
 end
 end
-
-Create code folder and add main script
